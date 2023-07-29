@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#navbar {
+  background-color: rgb(107, 181, 192);
+  height: 5vh;
+}
+
+#herosection {
+  margin-top: 4vh;
+  background-color: rgb(107, 181, 192);
+  height: 36.5vh;
+}
+
+.bodysection {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.bodybox {
+  flex: 1;
+  width: 300px;
+  background-color: rgb(107, 181, 192);
+  height: 36.5vh;
+  margin-top: 4vh;
+}
+
+#footer {
+  margin-top: 4vh;
+  background-color: rgb(107, 181, 192);
+  height: 10vh;
+}
